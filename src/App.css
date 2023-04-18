@@ -1,22 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
-.app{
-  font-family: Poppins;
+.App {
+  width: 95%;
   padding: 0 15px;
   display: flex;
   flex-direction: column;
   gap: 20px;
+  font-family: poppins;
 }
 
-.title{
+.title {
   font-weight: 700;
 }
 
-.slider{
+.slider {
   width: 100%;
 }
 
-.lables{
+.lables {
   display: flex;
   justify-content: space-between;
+}
+
+.tenureContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.tenure {
+  width: 15%;
+  height: 50px;
+  border: none;
+  border-radius: 100px;
+  background-color: rgb(226, 226, 226);
+}
+
+.selected {
+  background-color: #009ad6;
+  color: white;
 }
