@@ -1,3 +1,28 @@
+# EMI Calculator
+
+## 💻 Tech Stack
+**Front End:** HTML, CSS , Javascript, React
+**Hosting:** Github, Netlify
+
+## Demo
+![EMICalculator](assets/demo.png)
+
+## 🎖 Key Features
+1. Find down payment by adding total cost of asset
+2. To estimate the monthly loan amount, By provide the loan duration in months. 
+3. we can processing fee 
+
+## [Live Demo](https://emi-calculator-for-loan-using-react.netlify.app/)
+
+## ✍️ My learnings
+* Learn to organize CSS code
+* How to write clean code
+* How to write sementic HTML
+* Learn How to organize files and folders
+* Impact of colors in websites
+* How to structure layout 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
