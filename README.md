@@ -1,5 +1,7 @@
 # EMI Calculator
 
+<h3 align="center"> EMI Calculator is calculate a loan amount and down payment using value of Total Cost of Asset, Interest Rate (in %) and Processing Fee (in %)</h3>
+
 ## 💻 Tech Stack
 **Front End:** HTML, CSS , Javascript, React
 **Hosting:** Github, Netlify
@@ -12,8 +14,6 @@
 2. To estimate the monthly loan amount, By provide the loan duration in months. 
 3. we can processing fee 
 
-## [Live Demo](https://emi-calculator-for-loan-using-react.netlify.app/)
-
 ## ✍️ My learnings
 * Learn to organize CSS code
 * How to write clean code
@@ -21,6 +21,8 @@
 * Learn How to organize files and folders
 * Impact of colors in websites
 * How to structure layout 
+
+## [Live Demo](https://emi-calculator-for-loan-using-react.netlify.app/)
 
 
 # Getting Started with Create React App
