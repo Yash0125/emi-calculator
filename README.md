@@ -12,7 +12,7 @@
 ## 🎖 Key Features
 1. Find down payment by adding total cost of asset
 2. To estimate the monthly loan amount, By provide the loan duration in months. 
-3. we can processing fee 
+
 
 ## ✍️ My learnings
 * Learn to organize CSS code
